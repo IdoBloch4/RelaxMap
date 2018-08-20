@@ -70,7 +70,8 @@ class Module {
 	void addSumDangling(double addedWeight) { sumDangling += addedWeight; }
 	void minusSumDangling(double minusWeight) { sumDangling -= minusWeight; }
 
-	int NumMembers() { return members.size(); }
+	int NumOfMembersInVector() { return members.size(); }
+	int NumMembers() { return numMembers; }
 	void setNumMembers(int nMember) { numMembers = nMember; }
 	void increaseNumMembers() { numMembers++; }
 	void increaseNumMembers(int n) { numMembers += n; }
