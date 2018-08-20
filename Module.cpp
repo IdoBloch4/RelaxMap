@@ -30,6 +30,9 @@ void findAssignedPart(int* start, int* end, int numNodes, int numTh, int myID);
 
 const double InitLength = 10000.0;
 
+	const double Network::alpha = 0.15;
+	const double Network::beta = 1.0 - 0.15;
+
 using namespace std;
 
 struct MoveSummary {

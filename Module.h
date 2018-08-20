@@ -70,7 +70,7 @@ class Module {
 	void addSumDangling(double addedWeight) { sumDangling += addedWeight; }
 	void minusSumDangling(double minusWeight) { sumDangling -= minusWeight; }
 
-	int NumMembers() { return numMembers; }
+	int NumMembers() { return members.size(); }
 	void setNumMembers(int nMember) { numMembers = nMember; }
 	void increaseNumMembers() { numMembers++; }
 	void increaseNumMembers(int n) { numMembers += n; }
@@ -111,9 +111,9 @@ class Network {
 	double sumAllExitPr;			// SUM (exitPr_i)  i = 1 .. nModule
 
   public:
-	static const double alpha = 0.15;
+	static const double alpha;
 	//static const double beta = 1.0 - alpha;
-	static const double beta = 1.0 - 0.15;
+	static const double beta;
 
 	MTRand *R;
 
