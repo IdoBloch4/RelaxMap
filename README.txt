@@ -57,3 +57,7 @@ If you would like to add a reference for this application in documents, please p
 If you find a bug, please send a bug report to 
 	Seung-Hee Bae: shbae@cs.washington.edu
 	Bill Howe: billhowe@cs.washington.edu
+
+5. Quick How to start guide
+
+https://github.com/IdoBloch4/RelaxMap/blob/master/documentation/HowToStart_InWindows.md

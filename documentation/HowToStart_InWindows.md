@@ -1,31 +1,53 @@
-### 1. StartNewProjectInClion
+### 1. Start New Project In C-Lion
 
-![](.\01-StartNewProjectInClion.PNG)
+![](https://image.ibb.co/cfR7Vz/01_Start_New_Project_In_Clion.png)
+
+
 
 ## 2. Clone RelaxMap
 
-![](.\02-CloneRelaxMap.PNG)
+![](https://image.ibb.co/hTRkHe/02_Clone_Relax_Map.png)
+
+
 
 ## 3. Build RelaxMap
 
-![](C:\Users\idobl\CLionProjects\RelaxMapExample\documentation\03-BuildRelaxMap.PNG)
+![](https://image.ibb.co/iPz5He/03_Build_Relax_Map.png)
+
+
 
 ## 4. Select Executable File
 
-![](C:\Users\idobl\CLionProjects\RelaxMapExample\documentation\04-SelectExecutableFile.PNG)
+![](https://image.ibb.co/jpfZAz/04_Select_Executable_File.png)
+
+
 
 ## 5. Enter Program Arguments
 
-![](C:\Users\idobl\CLionProjects\RelaxMapExample\documentation\05-Enter Arguments.PNG)
+![](https://image.ibb.co/g0YbOK/05_Enter_Arguments.png)
+
+
 
 ## 6. Delete The Build Before Launch 
 
-![](C:\Users\idobl\CLionProjects\RelaxMapExample\documentation\06-DeleteBuild.PNG)
+![](https://image.ibb.co/mnoXxe/06_Delete_Build.png)
+
+
 
 ## 7. Delete Old Main
 
-![](C:\Users\idobl\CLionProjects\RelaxMapExample\documentation\07-DeleteOldMain.PNG)
+![](https://image.ibb.co/iq7gqz/07_Delete_Old_Main.png)
+
+
 
 ## 8. Replace Makefile with the request environment debug/release 
 
-![](C:\Users\idobl\CLionProjects\RelaxMapExample\documentation\08-ReplaceMakeFileWithTheRequestEnvironment.PNG)
+![](https://image.ibb.co/bZGkHe/08_Replace_Make_File_With_The_Request_Environment.png)
+
+
+
+Note: all images are also pushed in the repository, available in:
+
+	   https://github.com/IdoBloch4/RelaxMap/tree/master/documentation 
+
+	   with the same naming as their headers.
